@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+#container1 {
+	border-bottom: dashed red;
+}
+
+#headerrowtop {
+	text-align: center;
+	height: 150px;
+	margin-bottom: 10px;
+}
+
+#jscontent {
+	font-size: 20%;
+}
+
+#metallogo {
+	width: 100%;
+	
+}
+
+#middlesec {
+	border: dashed red;
+}
+
+#imageparam {
+	width: 100%;
+	padding-top: 25px;
+}
+
+.row {
+	margin-top: 10px;
+}
+
+.col-md-4 {
+	width: 19.333333%;
+}
